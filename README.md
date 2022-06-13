@@ -1,4 +1,4 @@
-[lamnong.github.io]([https://lamnong.github.io](https://lamnong.github.io/module1.github.io/))
+[lamnong.github.io](https://lamnong.github.io/module1.github.io/)
 
 
 User Story
