@@ -1,4 +1,4 @@
-[module1.github.io](https://lamnong.github.io/module1.github.io/)
+[Link to Deploy index.html](https://lamnong.github.io/module1.github.io/)
 
 
 User Story
