@@ -21,4 +21,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
+ScreenShot
+
 ![screenShot](assets/images/Screen%20Shot%202022-06-12%20at%2010.19.44%20PM.png)
